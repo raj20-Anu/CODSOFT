@@ -13,7 +13,7 @@ The 🧩 flow includes:
 - Login Screen
 - Sign Up Screen
 
-<h1 align= left>🎨 Tools Used</h1>
+🎨 Tools Used
 - Figma
 
 ## ✨ Description
