@@ -8,12 +8,12 @@ UI/UX Design Internship - CodSof
 ## 📱 Project Overview
 *A clean and minimal mobile app authentication flow designed using UI/UX principles.*
 
-The 🧩 flow includes:
+## The 🧩 flow includes:
 *- Welcome Screen*
 *- Login Screen*
 *- Sign Up Screen*
 
-🎨 Tools Used
+## 🎨 Tools Used
 *- Figma*
 
 ## ✨ Description
