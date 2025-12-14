@@ -1,5 +1,5 @@
 # CODSOFT
-UI/UX Design Internship - CodSof
+UI/UX Design Internship - CodSoft
 
 *# Task 1 – Mobile App Sign In Flow (UI/UX)*
 
