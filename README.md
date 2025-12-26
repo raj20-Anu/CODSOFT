@@ -7,14 +7,14 @@
 
 ## 📁 Tasks Included
 
-• *Task 1 – Mobile App Signup Flow📱*
-  Designed a clean and intuitive signup and login flow for a mobile application, focusing on smooth onboarding and clarity.
+• *Task 1 – Mobile App Signup Flow*📱                            
+Designed a clean and intuitive signup and login flow for a mobile application, focusing on smooth onboarding and clarity.
 
 • *Task 2 – Coffee Brand Email Template*☕
-  Designed a promotional email template for a coffee brand with a cozy visual style, clear typography, and structured content.
+Designed a promotional email template for a coffee brand with a cozy visual style, clear typography, and structured content.
 
 • *Task 3 – Restaurant Menu UI Design*🍽️  
-  Designed a mobile restaurant menu interface focusing on clear food presentation, easy navigation, and visual consistency.
+Designed a mobile restaurant menu interface focusing on clear food presentation, easy navigation, and visual consistency.
 
 ## 🛠 Tools Used
 *- Figma*
