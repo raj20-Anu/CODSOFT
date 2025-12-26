@@ -7,7 +7,7 @@
 
 ## 📁 Tasks Included
 
-• *Task 1 – Mobile App Signup Flow*📱
+• *Task 1 – Mobile App Signup Flow📱*
   Designed a clean and intuitive signup and login flow for a mobile application, focusing on smooth onboarding and clarity.
 
 • *Task 2 – Coffee Brand Email Template*☕
