@@ -1,7 +1,7 @@
 # CODSOFT
 UI/UX Design Internship - CodSoft
 
-# Task 3 – Restaurant Menu UI Design (UI/UX)
+*Task 3 – Restaurant Menu UI Design (UI/UX)*
 
 *This project is part of my CodSoft Internship – Task 3.*
 
