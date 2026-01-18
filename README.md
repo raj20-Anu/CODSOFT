@@ -5,7 +5,7 @@
 
 *The projects focus on applying core UI/UX principles such as layout design, visual hierarchy, usability, and user-centered design through practical tasks*.
 
-## 📁 Tasks Included
+## 📁 Tasks Included:-
 
 • *Task 1 – Mobile App Signup Flow*📱                            
 Designed a clean and intuitive signup and login flow for a mobile application, focusing on smooth onboarding and clarity.
